@@ -10,6 +10,9 @@
 **팀 구성:** 1인 개인 프로젝트  
 **담당 업무:** CPU Core Design, Type별 Simulation 및 검증
 
+##동작 영상
+[![동작 영상](https://img.youtube.com/vi/qO9Ge5cO5Yo/0.jpg)](https://youtube.com/shorts/qO9Ge5cO5Yo)
+
 ## 🎯 주요 기능
 
 ### 싱글사이클 CPU 아키텍처
